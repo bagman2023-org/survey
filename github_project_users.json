@@ -22,9 +22,9 @@
             "company_place": "浙江省宁波市",
             "account_entry": "邀请开通",
             "company_label": ["企业家具", "教育家具", "医疗家具", "商业家具"],
-            "account_level": "dealer_01",
+            "account_level": "dealer_001",
             "account_notes": "",
-            "account_times": "2026-06-08T08:08:24Z"
+            "account_times": "2026-06-08T08:24:04Z"
         }
     ],
     "field_schema": {
