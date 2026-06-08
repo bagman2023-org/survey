@@ -1,22 +1,6 @@
 {
     "users": [
         {
-            "github_username": "user1",
-            "phone_number": "23532452351",
-            "email": "961235686@qq.com",
-            "company_title": "杭州云启工程家具有限公司",
-            "company_chief": "张建国",
-            "company_place": "浙江省杭州市",
-            "account_entry": "管理员账号",
-            "company_label": [
-                "企业家具",
-                "综合家具"
-            ],
-            "account_level": "admin",
-            "account_notes": "",
-            "account_times": "2025-05-07T09:18:32Z"
-        },
-        {
             "github_username": "user233324",
             "phone_number": "123123123123",
             "email": "9612356865@qq.com",
