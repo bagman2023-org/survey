@@ -1,43 +1,50 @@
-  {
+{
     "users": [
-      {
-        "github_username": "user1",
-        "phone_number": "23532452351",
-        "email": "961235686@qq.com",
-        "company_title": "杭州云启工程家具有限公司",
-        "company_chief": "张建国",
-        "company_place": "浙江省杭州市",
-        "account_entry": "管理员账号",
-        "company_label": ["企业家具", "综合家具"],
-        "account_level": "admin",
-        "account_notes": "",
-        "account_times": "2025-05-07T09:18:32Z"
-      },
-      {
-        "github_username": "user233324",
-        "phone_number": "123123123123",
-        "email": "961235686@qq.com",
-        "company_title": "宁波鸿远办公家具有限公司",
-        "company_chief": "李文涛",
-        "company_place": "浙江省宁波市",
-        "account_entry": "邀请开通",
-        "company_label": ["教育家具", "企业家具"],
-        "account_level": "dealer_01",
-        "account_notes": "",
-        "account_times": "2026-04-23T10:26:18Z"
-      }
+        {
+            "github_username": "user1",
+            "phone_number": "23532452351",
+            "email": "961235686@qq.com",
+            "company_title": "杭州云启工程家具有限公司",
+            "company_chief": "张建国",
+            "company_place": "浙江省杭州市",
+            "account_entry": "管理员账号",
+            "company_label": [
+                "企业家具",
+                "综合家具"
+            ],
+            "account_level": "admin",
+            "account_notes": "",
+            "account_times": "2025-05-07T09:18:32Z"
+        },
+        {
+            "github_username": "user233324",
+            "phone_number": "123123123123",
+            "email": "9612356865@qq.com",
+            "company_title": "宁波鸿远办公家具有限公司",
+            "company_chief": "李文涛",
+            "company_place": "浙江省宁波市",
+            "account_entry": "邀请开通",
+            "company_label": [
+                "企业家具",
+                "教育家具",
+                "医疗家具"
+            ],
+            "account_level": "dealer_01",
+            "account_notes": "",
+            "account_times": "2026-06-08T08:01:08Z"
+        }
     ],
     "field_schema": {
-      "github_username": "账号名称，登录账号，唯一，4到20位字母或数字",
-      "phone_number": "手机号码，登录匹配，9到13位数字",
-      "email": "邮箱号码，登录匹配和验证码，当前仅支持QQ邮箱",
-      "company_title": "公司名称，机构账号所属公司",
-      "company_chief": "公司联系人，机构主要负责人",
-      "company_place": "公司区域，例如浙江省杭州市",
-      "account_entry": "准入方式：付费开通、邀请开通、管理员账号",
-      "company_label": "公司标签，可选：企业家具、教育家具、医疗家具、商业家具、公寓家具、综合家具",
-      "account_level": "账号身份：admin管理员、dealer经销商、manufacturer厂家、user其他用户",
-      "account_notes": "账号备注，人工补充说明",
-      "account_times": "账号时间，账号信息最后记录或修改时间"
+        "github_username": "账号名称，登录账号，唯一，4到20位字母或数字",
+        "phone_number": "手机号码，登录匹配，9到13位数字",
+        "email": "邮箱号码，登录匹配和验证码，当前仅支持QQ邮箱",
+        "company_title": "公司名称，机构账号所属公司",
+        "company_chief": "公司联系人，机构主要负责人",
+        "company_place": "公司区域，例如浙江省杭州市",
+        "account_entry": "准入方式：付费开通、邀请开通、管理员账号",
+        "company_label": "公司标签，可选：企业家具、教育家具、医疗家具、商业家具、公寓家具、综合家具",
+        "account_level": "账号身份：admin管理员、dealer经销商、manufacturer厂家、user其他用户",
+        "account_notes": "账号备注，人工补充说明",
+        "account_times": "账号时间，账号信息最后记录或修改时间"
     }
-  }
+}
