@@ -8,10 +8,16 @@
             "company_chief": "张建国",
             "company_place": "浙江省杭州市",
             "account_entry": "管理员账号",
-            "company_label": ["企业家具", "综合家具"],
+            "company_label": [
+                "企业家具",
+                "综合家具"
+            ],
             "account_level": "admin",
             "account_notes": "",
-            "account_times": "2025-05-07T09:18:32Z"
+            "account_times": "2025-05-07T09:18:32Z",
+            "devices": {
+                "device_001": "37b966a43c5b6d14777dde1440b852e869befa5363d6f91bac893c9ca71a4b84|2026-06-18T09:40:09|2026-06-18T09:40:09"
+            }
         },
         {
             "github_username": "user233324",
@@ -21,7 +27,12 @@
             "company_chief": "李文涛",
             "company_place": "浙江省宁波市",
             "account_entry": "邀请开通",
-            "company_label": ["企业家具", "教育家具", "医疗家具", "商业家具"],
+            "company_label": [
+                "企业家具",
+                "教育家具",
+                "医疗家具",
+                "商业家具"
+            ],
             "account_level": "dealer_001",
             "account_notes": "",
             "account_times": "2026-06-08T08:24:04Z"
@@ -38,6 +49,7 @@
         "company_label": "公司标签，可选：企业家具、教育家具、医疗家具、商业家具、公寓家具、综合家具",
         "account_level": "账号身份：admin管理员、dealer经销商、manufacturer厂家、user其他用户",
         "account_notes": "账号备注，人工补充说明",
-        "account_times": "账号时间，账号信息最后记录或修改时间"
+        "account_times": "账号时间，账号信息最后记录或修改时间",
+        "devices": "账号绑定设备列表，格式为 device_001: device_hash|first_at|last_at"
     }
 }
