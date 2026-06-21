@@ -25,11 +25,11 @@
             "company_chief": "李文涛",
             "company_place": "浙江省宁波市",
             "account_entry": "邀请开通",
-            "company_label": ["企业家具", "教育家具", "医疗家具", "商业家具"],
+            "company_label": ["企业家具", "教育家具", "医疗家具"],
             "account_level": "dealer_001",
             "device_limits": 10,
             "account_notes": "",
-            "account_times": "2026-06-08T08:24:04Z"
+            "account_times": "2026-06-21T12:13:58Z"
         }
     ],
     "field_schema": {
