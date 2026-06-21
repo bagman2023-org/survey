@@ -10,7 +10,7 @@
             "account_entry": "管理员账号",
             "company_label": ["企业家具", "综合家具"],
             "account_level": "admin",
-            "device_limits": 10,
+            "device_limits": 0,
             "account_notes": "",
             "account_times": "2025-05-07T09:18:32Z",
             "devices": {
