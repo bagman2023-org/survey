@@ -1,48 +1,16 @@
 {
     "version": 1,
-    "last_updated": "2026-06-27 11:50:29",
-    "total_records": 4,
-    "total_projects": 3,
+    "last_updated": "2026-07-03 12:35:23",
+    "total_records": 0,
+    "total_projects": 0,
     "项目情报提交": {
-        "total_records": 1,
-        "total_projects": 1,
-        "projects": {
-            "2021南-039地块项目(湘家荡旅游度假区地块项目（暂定）)【综合家具】": {
-                "clean_project_name": "2021南-039地块项目(湘家荡旅游度假区地块项目（暂定）)",
-                "project_type_suffix": "【综合家具】",
-                "status": "已有情报",
-                "user_count": 1,
-                "latest_type": "【项目基础信息】提供项目内部人员结构、采购负责人及公司近期动态",
-                "last_submit_time": "2026-06-27 10:18:44",
-                "labels": ["1-情报提交", "2-等待审核处理"],
-                "issue_numbers": [581]
-            }
-        }
+        "total_records": 0,
+        "total_projects": 0,
+        "projects": {}
     },
     "项目调查提交": {
-        "total_records": 3,
-        "total_projects": 2,
-        "projects": {
-            "杭政储出【2024】123号地块商品住宅（设配套公建）项目【商业家具】": {
-                "clean_project_name": "杭政储出【2024】123号地块商品住宅（设配套公建）项目",
-                "project_type_suffix": "【商业家具】",
-                "status": "已有调查",
-                "user_count": 1,
-                "latest_type": "【项目基础信息】调查项目基本情况、采购负责人及公司最新动态",
-                "last_submit_time": "2026-06-27 10:49:57",
-                "labels": ["1-调查提交", "2-等待审核处理"],
-                "issue_numbers": [584]
-            },
-            "三墩单元XH010402-125地块新制造业项目【综合家具】": {
-                "clean_project_name": "三墩单元XH010402-125地块新制造业项目",
-                "project_type_suffix": "【综合家具】",
-                "status": "已有调查",
-                "user_count": 2,
-                "latest_type": "【项目基础信息】调查项目基本情况、采购负责人及公司最新动态",
-                "last_submit_time": "2026-06-27 10:45:43",
-                "labels": ["1-调查提交", "2-等待审核处理"],
-                "issue_numbers": [583, 582]
-            }
-        }
+        "total_records": 0,
+        "total_projects": 0,
+        "projects": {}
     }
 }
