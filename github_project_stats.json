@@ -1,18 +1,19 @@
 {
     "schema_version": 1,
-    "last_updated": "2026-06-22 12:43:55",
+    "last_updated": "2026-07-06 07:44:56",
     "total_users": 1,
     "users": {
         "user1": {
-            "login_count": 33,
+            "login_count": 398,
             "first_login_time": "2026-05-12 14:31:44",
-            "last_login_time": "2026-06-22 12:43:49",
+            "last_login_time": "2026-07-06 07:44:51",
             "monthly": {
                 "2026-05": 21,
-                "2026-06": 12
+                "2026-06": 282,
+                "2026-07": 95
             },
-            "last_upload_month": "2026-06",
-            "last_upload_time": "2026-06-22 12:43:55"
+            "last_upload_month": "2026-07",
+            "last_upload_time": "2026-07-06 07:44:56"
         }
     }
 }
