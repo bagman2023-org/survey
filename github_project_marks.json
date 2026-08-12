@@ -1,21 +1,21 @@
 {
     "version": 1,
-    "last_updated": "2026-07-07 21:03:28",
+    "last_updated": "2026-08-12 20:51:22",
     "total_records": 1,
     "total_projects": 1,
     "项目情报提交": {
         "total_records": 1,
         "total_projects": 1,
         "projects": {
-            "临平政工出（2023）32号地块项目【企业家具】": {
-                "clean_project_name": "临平政工出（2023）32号地块项目",
-                "project_type_suffix": "【企业家具】",
+            "2022南-023号地块【综合家具】": {
+                "clean_project_name": "2022南-023号地块",
+                "project_type_suffix": "【综合家具】",
                 "status": "已有情报",
                 "user_count": 1,
                 "latest_type": "【项目基础信息】提供项目内部人员结构、采购负责人及公司近期动态",
-                "last_submit_time": "2026-07-07 08:43:51",
+                "last_submit_time": "2026-08-12 14:37:48",
                 "labels": ["1-情报提交", "2-等待审核处理"],
-                "issue_numbers": [587]
+                "issue_numbers": [588]
             }
         }
     },
