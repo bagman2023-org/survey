@@ -45,7 +45,7 @@
           "company_label": "公司标签，可选：企业家具、教育家具、医疗家具、商业家具、公寓家具、综合家具",
           "account_level": "账号身份：admin管理员、dealer经销商、manufacturer厂家、user其他用户",
           "device_limits": "账号允许绑定的最大设备数量，默认10",
-          "region_access": "账号允许访问的区域数据库，数组格式；浙江-zj（包含杭州等浙江省内城市），广东-gd，江苏-js，北京-bj，山东-sd（包含青岛等山东省内城市），湖北-hb；市级数据归属对应省级数据库，不单独设置城市代码",
+          "region_access": "账号允许访问的区域数据库，数组格式；浙江-zj，广东-gd，江苏-js，北京-bj，山东-sd，湖北-hb",
           "account_notes": "账号备注，人工补充说明",
           "account_times": "账号时间，账号信息最后记录或修改时间",
           "devices": "账号绑定设备列表，格式为 device_001: device_hash|first_at|last_at"
