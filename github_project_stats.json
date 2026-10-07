@@ -1,21 +1,36 @@
 {
     "schema_version": 1,
-    "last_updated": "2026-09-02 00:04:19",
+    "last_updated": "2026-10-07 09:58:45",
     "total_users": 1,
     "users": {
         "user1": {
-            "login_count": 1148,
+            "login_count": 2036,
             "first_login_time": "2026-05-12 14:31:44",
-            "last_login_time": "2026-09-02 00:04:12",
+            "last_login_time": "2026-10-07 09:58:39",
             "monthly": {
                 "2026-05": 21,
                 "2026-06": 282,
                 "2026-07": 179,
                 "2026-08": 573,
-                "2026-09": 93
+                "2026-09": 570,
+                "2026-10": 411
             },
-            "last_upload_month": "2026-09",
-            "last_upload_time": "2026-09-02 00:04:19"
+            "last_upload_month": "2026-10",
+            "last_upload_time": "2026-10-07 09:58:45",
+            "api_monthly": {
+                "2026-10": {
+                    "requests": 53,
+                    "failed": 0
+                }
+            },
+            "api_sources": {
+                "eec8fe39fb4f440e90c110328c09fce3": {
+                    "2026-10": {
+                        "requests": 53,
+                        "failed": 0
+                    }
+                }
+            }
         }
     }
 }
