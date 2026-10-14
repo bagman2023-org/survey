@@ -10,6 +10,15 @@
   ],
   "更新日志UP": [
     {
+      "UP_id": "UP26-1014-0003",
+      "UP_title": "工程项目调查 v1.0.8 更新",
+      "UP_status": "新消息",
+      "UP_publish_date": "2026-10-14",
+      "UP_description": "工程项目调查 v1.0.8 本次更新内容：\n\n更新程序版本与安装包。",
+      "UP_version": "1.0.8",
+      "UP_content_sha256": "c9d15f00a2be3e2064261160aa866168237031716265a51d59552aa24bdfdca9"
+    },
+    {
       "UP_id": "UP26-0903-0002",
       "UP_title": "工程项目调查 v1.0.7 更新",
       "UP_status": "新消息",
