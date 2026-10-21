@@ -8,14 +8,19 @@
             "company_chief": "张建国",
             "company_place": "浙江省杭州市",
             "account_entry": "管理员账号",
-            "company_label": ["企业家具", "综合家具"],
+            "company_label": [
+                "企业家具",
+                "综合家具"
+            ],
             "account_level": "admin",
             "device_limits": 15,
-            "region_access": ["zj"],
+            "region_access": [
+                "zj"
+            ],
             "account_notes": "",
             "account_times": "2026-06-21T14:34:20Z",
             "devices": {
-                "device_001": "37b966a43c5b6d14777dde1440b852e869befa5363d6f91bac893c9ca71a4b84|2026-06-18T09:40:09|2026-09-03T09:21:20"
+                "device_001": "37b966a43c5b6d14777dde1440b852e869befa5363d6f91bac893c9ca71a4b84|2026-06-18T09:40:09|2026-10-21T10:30:46"
             }
         },
         {
@@ -26,10 +31,16 @@
             "company_chief": "李文涛",
             "company_place": "浙江省宁波市",
             "account_entry": "邀请开通",
-            "company_label": ["企业家具", "教育家具", "医疗家具"],
+            "company_label": [
+                "企业家具",
+                "教育家具",
+                "医疗家具"
+            ],
             "account_level": "dealer_001",
             "device_limits": 10,
-            "region_access": ["zj"],
+            "region_access": [
+                "zj"
+            ],
             "account_notes": "",
             "account_times": "2026-06-21T12:13:58Z"
         }
